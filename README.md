@@ -13,11 +13,12 @@
 
 - Java
 - Java Swing (for GUI)
-
+- Notepad++ for development (No IDE, no drag-and-drop, purely raw coding)
 
 ## How to Run the Project
 
-1. Clone the repository:
+1. Compile and run the project using the following commands:
    ```bash
-   git clone https://github.com/yourusername/prestige-motor-sales.git
+   javac Main.java
+   java Main
 
